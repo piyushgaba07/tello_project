@@ -133,4 +133,4 @@ This Python application provides a comprehensive Graphical User Interface (GUI) 
 ## License
 
 *This project is licensed under the MIT License*
-```
+
