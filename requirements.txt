@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+tensorflow
+djitellopy
+pygame
+pyaudio
+speechrecognition
+ollama
+openai-whisper
+soundfile
